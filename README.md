@@ -24,7 +24,9 @@ pkg_env\Scripts\activate.bat
 cd ..
 pip install -r requirements.txt
 ```
+## Acknowledgements
 
+I learnt how to make a python package almost completely from [ChatGPT](https://chat.openai.com/). 
 
 ## To Do
 
