@@ -24,3 +24,8 @@ pkg_env\Scripts\activate.bat
 cd ..
 pip install -r requirements.txt
 ```
+
+
+## To Do
+
+* Use [pytest](https://docs.pytest.org/en/latest/) to run tests
