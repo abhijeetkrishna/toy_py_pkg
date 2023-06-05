@@ -3,9 +3,7 @@ A toy repository to learn how to make packages in python.
 Install package simply by 
 
 ```
-cd math_operations/
 pip install .
-cd ..
 ```
 
 To install all recommended requirements : 
@@ -21,8 +19,7 @@ source pkg_env/bin/activate
 # On Windows Command Prompt
 pkg_env\Scripts\activate.bat
 #install all packages
-cd ..
-pip install -r requirements.txt
+pip install -r ../requirements.txt
 ```
 ## Acknowledgements
 
